@@ -52,11 +52,3 @@
 <a href="https://hub.docker.com/u/xrkmed/"><img src="https://img.shields.io/badge/DockerHub-xrkmed-blue"/></a>
 
 </p>
-
-### ⚡ Technologies Stats</b></summary>
-
-<div id="statistics_contributions_block_id" align="center" style="align-content: center; text-align:center;">
- <a href="https://profile.codersrank.io/user/xrkmed" target="_blank">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrkmed&size_weight=0.5&count_weight=0.5" />
- </a>
-</div>
