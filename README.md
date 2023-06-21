@@ -25,7 +25,7 @@
 
 <div align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrkmed&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default"/>	
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xrkmed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xrkmed&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=default" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xrkmed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
 </div>
 
