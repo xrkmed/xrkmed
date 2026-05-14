@@ -13,14 +13,6 @@ C#/.NET, ASP.NET Core, REST APIs, PostgreSQL, SQL Server, Docker, CI/CD, AWS, Az
 - Cloud infrastructure and deployment pipelines
 - APIs, dashboards and operational tooling
 
-## Selected Projects
-
-| Project | Stack | What it shows |
-|---|---|---|
-| [IFJournal Backend](https://github.com/xrkmed/ifjournal-public-backend) | C#/.NET | API architecture, backend structure and production-oriented service design |
-| [IFJournal App](https://github.com/xrkmed/ifjournal-public-app) | TypeScript, React | Frontend integration with backend services |
-| Smart safe and payment systems | C#/.NET, Docker, IoT | Hardware integration, cloud dashboards and self-service operations |
-
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/xrkmed  
